@@ -1,6 +1,3 @@
 # Demo
 
-Some description!
-
-
-Austin is very cool
+Anthony is the coolest dude
